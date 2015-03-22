@@ -1,7 +1,6 @@
 MongoDB动态表单生成工具
 ========================
 
-<<<<<<< HEAD
 [ 简介 ]
 
     这是一个基于CodeIgniter框架，使用MongoDB存储的动态表单生成工具。
@@ -90,6 +89,3 @@ MongoDB动态表单生成工具
 
     本系统除CodeIgniter框架外，遵循Apache Licence2.0开源许可协议发布
     具体参考LICENSE.txt内容
-=======
-动态表单生成工具
->>>>>>> c9008f8e04b275b073b035519fc007415deccd27
